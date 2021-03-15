@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://twitter.com/abubakr28355335">
-    <img alt="Twitter: Nirmalya Ghosh" src="https://twitter.com/abubakr28355335/photo" target="_blank" />
+    <img alt="Twitter:abubakerelghazawy" src="https://twitter.com/abubakr28355335" target="_blank" />
   </a>
 </p>
 
